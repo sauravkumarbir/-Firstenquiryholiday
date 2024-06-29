@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.text-purple{
+  color:purple;
+}
+
+.text-orange{
+  color:orange;
+}
+
+.text-cyan{
+  color:darkcyan;
+}
+
+.bg-purple{
+  background-color:rgb(97, 6, 97);
+}
+
+th{
+  color:orangered !important;
+  text-transform:capitalize;
+}
